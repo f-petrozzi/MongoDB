@@ -1,0 +1,11 @@
+_id,billing_id,appointment_id,amount,payment_status
+671bd622b4caffdcff09835a,9001,5001,200,Paid
+671bd622b4caffdcff09835b,9002,5002,150,Pending
+671bd622b4caffdcff09835c,9003,5003,175,Canceled
+671bd622b4caffdcff09835d,9004,5004,250,Paid
+671bd622b4caffdcff09835e,9005,5005,220,Pending
+671bd622b4caffdcff09835f,9006,5006,300,Paid
+671bd622b4caffdcff098360,9007,5007,180,Pending
+671bd622b4caffdcff098361,9008,5008,0,No Charge
+671bd622b4caffdcff098362,9009,5009,210,Paid
+671bd622b4caffdcff098363,9010,5010,160,Pending

@@ -1,0 +1,11 @@
+_id,doctor_id,name,specialization,contact_info
+671bd52ab4caffdcff098336,101,Dr. Jane Smith,Cardiology,drsmith@hospital.com
+671bd52ab4caffdcff098337,102,Dr. John Doe,Pediatrics,drdoe@hospital.com
+671bd52ab4caffdcff098338,103,Dr. Emily Johnson,Dermatology,drejohnson@hospital.com
+671bd52ab4caffdcff098339,104,Dr. Michael Brown,Orthopedics,drbrown@hospital.com
+671bd52ab4caffdcff09833a,105,Dr. Sarah Davis,Neurology,drdavis@hospital.com
+671bd52ab4caffdcff09833b,106,Dr. Robert Martinez,Oncology,drmartinez@hospital.com
+671bd52ab4caffdcff09833c,107,Dr. Linda Thompson,Gastroenterology,drthompson@hospital.com
+671bd52ab4caffdcff09833d,108,Dr. William Garcia,Endocrinology,drgarcia@hospital.com
+671bd52ab4caffdcff09833e,109,Dr. Jessica Moore,Ophthalmology,drmoore@hospital.com
+671bd52ab4caffdcff09833f,110,Dr. David Rodriguez,Urology,drrodriguez@hospital.com

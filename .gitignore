@@ -1,0 +1,48 @@
+#############################
+#  General OS / Editor junk #
+#############################
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+###################
+#  Secrets & env  #
+###################
+.env
+*.pem
+*.key
+*.crt
+
+########################
+#  Node.js dependencies #
+########################
+node_modules/
+
+##########################
+#  MongoDB dump archives #
+##########################
+*.gz
+*.archive
+dump/
+backup/
+
+#####################################
+#  Large data or logs (keep it tiny) #
+#####################################
+*.log
+*.sql
+*.jsonl
+*.csv.gz
+
+#########################################
+#  Allow synthetic CSVs in data/ folder #
+#########################################
+!data/*.csv
+
+#################################
+#  Python cache / compiled files #
+#################################
+__pycache__/
+*.py[cod]

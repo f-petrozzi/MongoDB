@@ -1,0 +1,11 @@
+_id,patient_id,name,age,gender,contact_info
+671bd412b4caffdcff098329,1,John Doe,45,M,johndoe@mail.com
+671bd412b4caffdcff09832a,2,Jane Doe,34,F,janedoe@mail.com
+671bd412b4caffdcff09832b,3,Bob Smith,29,M,bobsmith@mail.com
+671bd412b4caffdcff09832c,4,Frank Ocean,27,M,frankocean@mail.com
+671bd412b4caffdcff09832d,5,Mary Lane,39,F,marylane@mail.com
+671bd412b4caffdcff09832e,6,Curious George,32,M,curiousgeorge@mail.com
+671bd412b4caffdcff09832f,7,Lacy Monroe,49,F,lacymonroe@mail.com
+671bd412b4caffdcff098330,8,Jennifer Anniston,44,F,jenniferanniston@mail.com
+671bd412b4caffdcff098331,9,Cory Thompson,39,M,corythompson@mail.com
+671bd412b4caffdcff098332,10,Jose Cuervo,62,M,josecuervo@mail.com

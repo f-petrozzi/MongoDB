@@ -1,0 +1,11 @@
+_id,appointment_id,patient_id,doctor_id,appointment_date,status
+671bd5f2b4caffdcff09834e,5001,1,101,2024-10-30,Completed
+671bd5f2b4caffdcff09834f,5002,2,102,2024-11-02,Scheduled
+671bd5f2b4caffdcff098350,5003,3,103,2024-11-04,Canceled
+671bd5f2b4caffdcff098351,5004,4,104,2024-11-06,Completed
+671bd5f2b4caffdcff098352,5005,5,105,2024-11-08,Scheduled
+671bd5f2b4caffdcff098353,5006,6,106,2024-11-10,Completed
+671bd5f2b4caffdcff098354,5007,7,107,2024-11-12,Scheduled
+671bd5f2b4caffdcff098355,5008,8,108,2024-11-14,No Show
+671bd5f2b4caffdcff098356,5009,9,109,2024-11-16,Completed
+671bd5f2b4caffdcff098357,5010,10,110,2024-11-18,Scheduled
