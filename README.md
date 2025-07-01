@@ -83,6 +83,24 @@ mongosh < scripts/playground.mongodb.js
 
 ---
 
+### Using MongoDB Atlas
+
+This project can also be run on **MongoDB Atlas** instead of a local instance.
+
+1. Create a free cluster at [https://cloud.mongodb.com](https://cloud.mongodb.com)
+2. Use the **Data Import** tool to upload each CSV from `data/` into its respective collection
+3. Open the **Playground** tab and paste code from `scripts/playground.mongodb.js` to run queries and pipelines
+
+Make sure your database is named `hospital` and your collections are named:
+- `Patients`
+- `Doctors`
+- `Appointments`
+- `Billing`
+
+All CRUD and aggregation examples in the playground script work without modification in the Atlas UI.
+
+---
+
 ## Certificate
 
 `docs/Certificate_MongoDB.pdf` — proof of completion for MongoDB University: Introduction to MongoDB
